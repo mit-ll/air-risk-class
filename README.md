@@ -272,6 +272,10 @@ Please use the appropriate documents listed in [`em-overview/README`](https://gi
 
 ### Software
 
+Please use this DOI number reference when citing the software:
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4009394.svg)](https://doi.org/10.5281/zenodo.4009394)
+
 ### LLSC
 
 The Lincoln Laboratory Supercomputing Center was used by MIT LL to process the data. When referencing the LLSC, please use this article:
