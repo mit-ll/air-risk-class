@@ -155,7 +155,7 @@ You should now be able to run the contents of this repository, including `Main.i
 jupyter notebook
 ```
 
-Then click on the `Main.ipynb` notebook that you want to run. If you are unfamiliar with the Jupyter notebook interface, please refer to this nice introduction and [`tutorial`](https://www.dataquest.io/blog/jupyter-notebook-tutorial/).
+Then click on the `Main.ipynb` notebook that you want to run. If you are unfamiliar with the Jupyter notebook interface, please refer to this nice introduction and [`tutorial`](https://www.dataquest.io/blog/jupyter-notebook-tutorial/). In our walkthrough of the notebook, we specify a state and then create a longitude/latitude grid of points to run the airspace risk classification. This code does not depend on the state and longitude/latitude/altitude points can be read in from a file (or created from a different geometric boundary) to run the classification on. A conveinience script (`runState.py`) is provided for running the airspace risk classification for an entire state. 
 
 #### Jupyter Errors
 
