@@ -77,7 +77,7 @@ Specifically, we defined the default risk criteria, within the United States, as
 - Uncontrolled airspace
 - Below 500 feet AGL
 - Over a rural area (100 people per square mile or less, within a US census block group)
-- At least 5 nautical miles away from all aerodromes
+- At least 5 nautical miles away from aerodromes
 
 ### Medium Air Risk
 
