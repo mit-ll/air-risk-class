@@ -21,7 +21,7 @@ install:
   - conda info -a
 
   # Replace dep1 dep2 ... with your dependencies
-  - conda conda env create -f environment.yml python=$TRAVIS_PYTHON_VERSION
+  - conda env create -f environment.yml python=$TRAVIS_PYTHON_VERSION
   - conda activate airspace
  # - python setup.py install # currently don't have a setup.py
   
